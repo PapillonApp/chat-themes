@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Retropillon",
+    "author": "PapillonApp",
+    "path": "retropillon",
+    "icon": "icon_light.png",
+    "darkIcon": "icon_dark.png",
+    "version": "1.0"
+  }
+]
