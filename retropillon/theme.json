@@ -4,7 +4,6 @@
   "icon": "icon_light.png",
   "darkIcon": "icon_dark.png",
   "version": "1.0",
-
   "lightMode": { 
     "headerBackgroundColor": "#A8F9B5",
     "headerTextColor": "#000",
@@ -23,6 +22,6 @@
     "chatBackgroundImage": "background_dark.png",
     "receivedMessageBackgroundColor": "#183A1D",
     "receivedMessageTextColor": "#FFF",
-    "inputBarBackgroundColor": "#2B6735",
-  },
+    "inputBarBackgroundColor": "#2B6735"
+  }
 }
