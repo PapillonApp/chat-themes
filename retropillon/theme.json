@@ -6,22 +6,22 @@
     "version": "1.0",
     "lightMode": {
         "headerBackgroundColor": "#A8F9B5",
-        "headerTextColor": "#000",
+        "headerTextColor": "#000000",
         "chatBackgroundImage": "background_light.png",
         "sentMessageBackgroundColor": "#00A31B",
-        "sentMessageTextColor": "#FFF",
+        "sentMessageTextColor": "#FFFFFF",
         "receivedMessageBackgroundColor": "#E6FFEB",
-        "receivedMessageTextColor": "#000",
+        "receivedMessageTextColor": "#000000",
         "receivedMessageBorderSize": 0,
         "inputBarBackgroundColor": "#A8F9B5",
         "sendButtonBackgroundColor": "#00A31B"
     },
     "darkMode": {
         "headerBackgroundColor": "#2B6735",
-        "headerTextColor": "#FFF",
+        "headerTextColor": "#FFFFFF",
         "chatBackgroundImage": "background_dark.png",
         "receivedMessageBackgroundColor": "#183A1D",
-        "receivedMessageTextColor": "#FFF",
+        "receivedMessageTextColor": "#FFFFFF",
         "inputBarBackgroundColor": "#2B6735"
     }
 }
